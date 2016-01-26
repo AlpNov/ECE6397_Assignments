@@ -33,6 +33,6 @@
 
 <!--Links-->
 [ros_tutor_1]:http://wiki.ros.org/ROS/Tutorials/UnderstandingTopics
-[ros_tutor_rosnode]:http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes
+[ros_tutor_node]:http://wiki.ros.org/ROS/Tutorials/UnderstandingNodes
 [ros_rosnode]:http://wiki.ros.org/rosnode
 [ros_rostopic]:http://wiki.ros.org/rostopic
